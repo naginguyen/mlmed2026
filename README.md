@@ -1,6 +1,6 @@
 USTH Machine Learning in Medicine 2026
 ==================================
 
-* Your name here
-* Your ID here
-* Your team ID here
+* Nguyễn Gia Nam
+* 23BI14328
+* Team ID: 7
